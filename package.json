@@ -9,10 +9,15 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tiptap/extension-collaboration": "^2.0.0-beta.202",
+    "@tiptap/extension-collaboration-cursor": "^2.0.0-beta.202",
     "@tiptap/react": "^2.0.0-beta.195",
     "@tiptap/starter-kit": "^2.0.0-beta.195",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "y-webrtc": "^10.2.3",
+    "y-websocket": "^1.4.5",
+    "yjs": "^13.5.42"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
